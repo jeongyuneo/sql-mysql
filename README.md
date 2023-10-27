@@ -14,4 +14,7 @@ MySQL을 이용한 SQL 풀이
     - [GROUP BY-고양이와 개는 몇 마리 있을까](Programmers/Programmers_Level2_고양이와%20개는%20몇%20마리%20있을까.sql)
     - [JOIN-조건에 맞는 도서와 저자 리스트 출력하기](Programmers/Programmers_Level2_조건에%20맞는%20도서와%20저자%20리스트%20출력하기.sql)
 
+- Level 3
+  - [GROUP BY-카테고리 별 도서 판매량 집계하기](Programmers/Programmers_Level3_카테고리%20별%20도서%20판매량%20집계하기.sql)
+
 </details>
